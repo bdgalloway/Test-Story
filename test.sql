@@ -1,1 +1,1 @@
-select * from oe_order_lines_all;
+select * from;
